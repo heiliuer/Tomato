@@ -1,0 +1,7 @@
+{
+  "restTime": 300,
+  "workTime": 1200,
+  "restMsg": "休息中，听听歌，看看新闻！",
+  "workMsg": "工作中，认真思考，非零化！",
+  "workStart": true
+}
